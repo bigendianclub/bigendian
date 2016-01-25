@@ -12,7 +12,6 @@ body {
 
 .business-header {
     height: 400px;
-    <p>This is some text. <img src="BigEndianBanner.jpg" alt="Smiley face" align="middle"> This is some text.</p>
     background: url('BigEndianBanner.jpg') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
